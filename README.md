@@ -1,7 +1,6 @@
 # Fashion Image to Video Synthesis
 Implementation of "Fashion Image-to-Video Synthesis via Stable Diffusion Model" for Myntra Hackerramp: WeForShe 2024
- 
-![Teaser Image](media/Teaser.png "Teaser")
+
 
 ## Data Preparation
 
